@@ -12,3 +12,6 @@ Cowsay:
             (__)\       )\/\
                 ||----w |
                 ||     ||
+ElizaWhat is life?
+
+ASKING QUESTIONS REVEALS A DEEP INSECURITY ABOUT EXISTENCE?
