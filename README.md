@@ -19,3 +19,7 @@ ASKING QUESTIONS REVEALS A DEEP INSECURITY ABOUT EXISTENCE?
 
 Morse: 
 -.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
+
+Path:
+telehack!veritas!uunet!atina!ecord
+
