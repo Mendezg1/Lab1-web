@@ -23,3 +23,22 @@ Morse:
 Path:
 telehack!veritas!uunet!atina!ecord
 
+Usenet:
+
+aa1ac  Efficient parallel algorithms fo     comp.parallel        13-Dec-90 15:01
+
+Path: utzoo!utgpu!news-server.csri.toronto.edu!cs.utexas.edu!wuarchive!emory!hubcap!fellous
+From: fellous@pipiens.usc.edu (Jean-Marc Fellous)
+Subject: Efficient parallel algorithms for matrix operations
+Date: 13 Dec 90 21:01:58 GMT
+Newsgroups: comp.parallel
+
+I am looking for efficient parallel algorithms for matrix operations
+(multiplication, convolutions, inversions ...) and would appreciate
+any related informations.
+
+Thanks ....
+
+Jean-Marc Fellous
+University Of Southern California (Los Angeles)
+fellous@rana.usc.edu
